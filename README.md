@@ -7,28 +7,28 @@
 ## **Features**  
 
 - **Homepage and Account Management**: Sign up or log in to access the application.  
-![Homepage and Login](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gif1.gif)  
+![Homepage and Login](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gifs/gif1.gif)  
 
 - **Dashboard**: Edit your profile, upload a profile picture, and view personalized details.  
-![Dashboard Features](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gif2.gif)  
+![Dashboard Features](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gifs/gif2.gif)  
 
 - **Modules Overview**: Navigate through various topics and select modules to begin learning.  
-![Modules Page](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gif3.gif)  
+![Modules Page](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gifs/gif3.gif)  
 
 - **MathLive Keyboard**: Use an interactive keyboard to input answers in LaTeX format.  
-![MathLive Keyboard](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gif4.gif)  
+![MathLive Keyboard](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gifs/gif4.gif)  
 
 - **Photo Upload Feature**: Submit a photo of your work to answer questions.  
-![Photo Upload](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gif5.gif)  
+![Photo Upload](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gifs/gif5.gif)  
 
 - **Drawing Pad Input**: Use a drawing pad to sketch answers directly.  
-![Drawing Pad](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gif6.gif)  
+![Drawing Pad](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gifs/gif6.gif)  
 
 - **AI Tutor Assistance**: Get help using "hint" or "don't know" buttons for guidance from the AI tutor.  
-![AI Tutor Assistance](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gif7.gif)  
+![AI Tutor Assistance](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gifs/gif7.gif)  
 
 - **Progress Tracking**: Monitor your progress and achievements on the dashboard.  
-![Progress Tracking](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gif8.gif)  
+![Progress Tracking](https://github.com/Papapepper1/Senior-Project-Professor-Pibot/blob/main/gifs/gif8.gif)  
 
 ---
 
