@@ -1,125 +1,47 @@
-# Professor PiBot
+# Professor PiBot  
 
-Professor PiBot is a discrete mathematics tutor application with a Flask backend and React frontend.
+**Professor PiBot** is a cutting-edge discrete mathematics tutor application designed to help students learn and practice concepts interactively. It leverages a powerful combination of a Flask backend and a React frontend to deliver a smooth and engaging educational experience.  
 
-## Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
-* You have installed Python 3.7+
-* You have installed Node.js and npm
-* You have a Windows machine
+## **Features**  
 
-## Installing Professor PiBot
+- **Interactive Tutoring**: Provides step-by-step guidance for solving discrete math problems.  
+- **Real-Time Feedback**: Evaluate user inputs and deliver feedback instantly to reinforce learning.  
+- **Progress Tracking**: Tracks user performance and progress through various modules.  
+- **Dynamic Input Support**: Supports LaTeX, drawing pad inputs, and photo submissions for versatile interaction.  
+- **Modern UI**: Offers a clean and responsive interface built with React.  
 
-To install Professor PiBot, follow these steps:
+---
 
-Clone the repository:
+## **Project Details**  
 
-Go to https://github.com/mikeclopton/Professor-PiBot
+This application is designed to bridge the gap between traditional learning and modern technology. By combining Flask’s robust backend capabilities with React’s dynamic frontend, Professor PiBot provides a comprehensive platform for students to engage with discrete mathematics in a new and exciting way.  
 
-Click the green button <> Code dropdown and select "Open with GitHub Desktop"
+- **Backend**: Flask handles data processing, API integration, and logic for evaluating user inputs.  
+- **Frontend**: React ensures an interactive and user-friendly experience, complete with real-time LaTeX rendering and smooth navigation between questions.  
 
-Create the folder on your PC
+---
 
-Open in VSCode
+## **Credits**  
 
-Set up the backend:
+Professor PiBot was developed through the collaborative efforts of:  
+- **Robbie Salisbury**  
+- **Jarett Spuck**  
+- **Mike Clopton**  
+- **Gabriel Taveras**  
+- **Esteban Rodriguez**  
 
-Open a terminal
+We thank everyone involved for their hard work and dedication in bringing this project to life.  
 
-Make sure you are in Professor PiBot root folder
+---
 
-Terminal 1 (Backend Setup)
+## **About the Project**  
 
-cd backend
+Professor PiBot aims to make learning discrete mathematics more accessible and enjoyable. It is designed for students who want a reliable and interactive way to enhance their understanding of complex mathematical concepts.  
 
-python -m venv venv
+Whether you're solving problems, reviewing concepts, or tracking your progress, Professor PiBot provides a tailored learning experience that adapts to your needs.  
 
-venv/scripts/activate
+--- 
 
-pip install -r requirements.txt
-
-python app.py
-
-Terminal 2 (Frontend Setup)
-
-cd frontend
-
-npm install
-
-npm run dev
-
---If you have an error regarding security, see these instructions:
-
-* Press Windows + X and open Windows Powershell (Admin)
-
-* Type Set-ExecutionPolicy RemoteSigned
-
-* Confirm change by entering Y
-
-* Go back to your original terminal and re-enter venv\Scripts\activate
-
-## Using Professor PiBot
-
-To use Professor PiBot, open a web browser and navigate to `http://localhost:5173/
-
-## Contributing to Professor PiBot
-
-To contribute to Professor PiBot, follow these steps:
-
-Access the Repository:
-
-Go to the GitHub repository page https://github.com/mikeclopton/Professor-PiBot
-
-Ensure You're on the Latest Version:
-
-On the repository page, make sure you're on the main branch (usually shown in a dropdown near the top-left).
-
-Look for a message that says "This branch is up to date with main" to confirm you're seeing the latest version.
-
-Clone the Code (Must have GitHub Desktop Installed):
-
-- Open GitHub Desktop.
-- Click **File** > **Clone Repository**.
-- In the **URL** tab, paste the repository URL from GitHub.
-- Select the local path where you'd like to clone the repository.
-- Click **Clone**.
-- Alternatively, you can click on the green "<> Code" button and click "Open With GitHub Desktop" to clone
-
-### 2. Make Your Changes:
-- Open the cloned repository's folder in your preferred code editor.
-- Make the desired changes to the code.
-
-### 3. Create a New Branch and Upload Changes:
-- In GitHub Desktop, go to **Branch** > **New Branch**.
-- Type in a new branch name (e.g., `feature-login-update` or `bugfix-database-connection`).
-- Click **Create Branch**.
-- After making your changes, return to GitHub Desktop.
-- Review your changes in the **Changes** tab.
-- Add a summary of your changes in the **Summary** box.
-- Click **Commit to [your-branch-name]**.
-
-### 4. Push Your Changes to GitHub:
-- Once committed, click **Push origin** in GitHub Desktop to upload your changes to GitHub.
-
-### 5. Create a Pull Request (Optional):
-- After pushing, GitHub Desktop will show a notification with an option to create a pull request.
-- Click **Create Pull Request** in GitHub Desktop or go to the repository's GitHub page.
-- Add any necessary comments about your changes.
-- Click **Create pull request** to submit your changes for review.
-
-
-
-Important Notes:
-
-Always create a new branch for your changes. Don't commit directly to the main branch.
-
-Be descriptive in your commit messages and pull request descriptions.
-
-If you're working on a specific issue, reference the issue number in your commit message or pull request (e.g., "Fixes #123").
-
-Make sure you're only uploading files you've changed or added. Don't re-upload the entire project unless necessary.
-
-If you're unsure about any steps, ask for help from Mike Clopton.
-
-If you're unsure about any steps, ask for help from Mike Clopton.
+**Explore, learn, and grow with Professor PiBot!**  
